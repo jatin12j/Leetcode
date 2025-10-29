@@ -1,10 +1,15 @@
 class Solution {
 public:
+
+    bool isAllBitSet(int x){
+        return (x & (x+1))==0;
+    }
     int smallestNumber(int n) {
-        int x=1;
-        while(x<n){
-            x = x*2+1;
+        int result = n;
+        
+        while(!isAllBitSet(result)){
+            result++;
         }
-        return x;
+        return result;
     }
 };
