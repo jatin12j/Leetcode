@@ -5,17 +5,17 @@ public:
 
         long long result = 0;
 
-        vector<int> diff(n);
+        // vector<int> diff(n);
 
-        for(int i=0;i<n;i++){
-            diff[i] = target[i] - nums[i];
-        }
+        // for(int i=0;i<n;i++){
+        //     diff[i] = target[i] - nums[i];
+        // }
 
         int curr = 0;
         int prev = 0;
 
         for(int i=0;i<n;i++){
-            curr = diff[i];
+            curr = target[i] - nums[i];
 
             if(curr > 0 && prev<0 || curr<0 && prev>0){
                 result += abs(curr);
