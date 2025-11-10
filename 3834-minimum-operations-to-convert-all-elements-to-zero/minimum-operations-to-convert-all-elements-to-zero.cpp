@@ -1,17 +1,21 @@
-constexpr int N=1e5;
-int st[N], top=-1;
 class Solution {
 public:
-    static int minOperations(vector<int>& nums) {
-        top=-1;// reset the stack
-        int op=0;
-        for (int x : nums){
-            while(top!=-1 && x<st[top]) top--;
-            if (top==-1 || x>st[top]){
-                if (x>0) op++;
-                st[++top]=x;
-            }
+    int minOperations(vector<int>& nums) {
+        stack<int> st;
+        int ops=0;
+
+        for(int i=0;i<nums.size();i++){
+            while(!st.empty() && st.top()>nums[i]){
+                st.pop();
         }
-        return op;
+        if(nums[i]==0)
+            continue;
+        
+        if(st.empty() || st.top()<nums[i]){
+            st.push(nums[i]);
+            ops++;
+        }
+        }
+        return ops;
     }
 };
