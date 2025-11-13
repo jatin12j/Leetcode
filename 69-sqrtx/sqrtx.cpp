@@ -2,18 +2,17 @@ class Solution {
 public:
     int mySqrt(int x) {
 
-        if(x==0){
-            return 0;
+        if(x<2){
+            return x;
         }
-        int start = 1, end = x ,mid , ans;
+        int start=1,end=x,mid,ans;
         while(start<=end){
-            mid = start+ (end-start)/2;
-            //mid * mid should be overflow so do this instead
-            if(mid == x/mid){
+            mid = start+(end-start)/2;
+            if(mid==x/mid){
                 return mid;
             }
             else if(mid<x/mid){
-                ans = mid;
+                ans=mid;
                 start=mid+1;
             }
             else{
