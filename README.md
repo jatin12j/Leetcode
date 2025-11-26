@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/jatin12j/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/jatin12j/Leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/jatin12j/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Simulation
 |  |
@@ -40,4 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/jatin12j/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/jatin12j/Leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+## Matrix
+|  |
+| ------- |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/jatin12j/Leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 <!---LeetCode Topics End-->
