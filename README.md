@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1590-make-sum-divisible-by-p](https://github.com/jatin12j/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/jatin12j/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/jatin12j/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/jatin12j/Leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/jatin12j/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/jatin12j/Leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -60,4 +61,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1590-make-sum-divisible-by-p](https://github.com/jatin12j/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/jatin12j/Leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+## Binary Search
+|  |
+| ------- |
+| [2141-maximum-running-time-of-n-computers](https://github.com/jatin12j/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
+## Greedy
+|  |
+| ------- |
+| [2141-maximum-running-time-of-n-computers](https://github.com/jatin12j/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
+## Sorting
+|  |
+| ------- |
+| [2141-maximum-running-time-of-n-computers](https://github.com/jatin12j/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 <!---LeetCode Topics End-->
