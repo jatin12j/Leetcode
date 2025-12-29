@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0756-pyramid-transition-matrix](https://github.com/jatin12j/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [1590-make-sum-divisible-by-p](https://github.com/jatin12j/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [2402-meeting-rooms-iii](https://github.com/jatin12j/Leetcode/tree/master/2402-meeting-rooms-iii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/jatin12j/Leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0756-pyramid-transition-matrix](https://github.com/jatin12j/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0944-delete-columns-to-make-sorted](https://github.com/jatin12j/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/jatin12j/Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/jatin12j/Leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -202,4 +204,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2054-two-best-non-overlapping-events](https://github.com/jatin12j/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/jatin12j/Leetcode/tree/master/2402-meeting-rooms-iii) |
+## Backtracking
+|  |
+| ------- |
+| [0756-pyramid-transition-matrix](https://github.com/jatin12j/Leetcode/tree/master/0756-pyramid-transition-matrix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0756-pyramid-transition-matrix](https://github.com/jatin12j/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 <!---LeetCode Topics End-->
