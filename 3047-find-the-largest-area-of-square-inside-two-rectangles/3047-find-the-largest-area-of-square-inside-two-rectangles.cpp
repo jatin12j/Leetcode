@@ -6,7 +6,7 @@ public:
         int n = bottomLeft.size();
 
         for (int i = 0; i < n; i++) {
-            for (int j = i + 1; j < n; j++) {
+              for (int j = i + 1; j < n; j++) {
                 long long lx =max(bottomLeft[i][0],bottomLeft[j][0]);
                   long long rx =min(topRight[i][0],topRight[j][0]);
                 long long ly =max(bottomLeft[i][1],bottomLeft[j][1]);
