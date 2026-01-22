@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/jatin12j/Leetcode/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/jatin12j/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jatin12j/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/jatin12j/Leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/jatin12j/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/jatin12j/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0840-magic-squares-in-grid](https://github.com/jatin12j/Leetcode/tree/master/0840-magic-squares-in-grid) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/jatin12j/Leetcode/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/jatin12j/Leetcode/tree/master/0189-rotate-array) |
 | [0840-magic-squares-in-grid](https://github.com/jatin12j/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/jatin12j/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/jatin12j/Leetcode/tree/master/1390-four-divisors) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jatin12j/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/jatin12j/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jatin12j/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/jatin12j/Leetcode/tree/master/0189-rotate-array) |
 ## Monotonic Stack
 |  |
 | ------- |
