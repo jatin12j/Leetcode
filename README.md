@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/jatin12j/Leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/jatin12j/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/jatin12j/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1200-minimum-absolute-difference](https://github.com/jatin12j/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/jatin12j/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/jatin12j/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/jatin12j/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/jatin12j/Leetcode/tree/master/0217-contains-duplicate) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/jatin12j/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/jatin12j/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1200-minimum-absolute-difference](https://github.com/jatin12j/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/jatin12j/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/jatin12j/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/jatin12j/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
