@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/jatin12j/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/jatin12j/Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/jatin12j/Leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jatin12j/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/jatin12j/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/jatin12j/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/jatin12j/Leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/jatin12j/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/jatin12j/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/jatin12j/Leetcode/tree/master/0085-maximal-rectangle) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jatin12j/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2211-count-collisions-on-a-road](https://github.com/jatin12j/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 ## Queue
 |  |
