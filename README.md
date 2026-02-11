@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/jatin12j/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/jatin12j/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/jatin12j/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/jatin12j/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/jatin12j/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/jatin12j/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/jatin12j/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/jatin12j/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0145-binary-tree-postorder-traversal](https://github.com/jatin12j/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jatin12j/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/jatin12j/Leetcode/tree/master/0155-min-stack) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jatin12j/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/jatin12j/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/jatin12j/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/jatin12j/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/jatin12j/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/jatin12j/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -420,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/jatin12j/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/jatin12j/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/jatin12j/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/jatin12j/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/jatin12j/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
