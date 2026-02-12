@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/jatin12j/Leetcode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/jatin12j/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/jatin12j/Leetcode/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jatin12j/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/jatin12j/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/jatin12j/Leetcode/tree/master/0572-subtree-of-another-tree) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/jatin12j/Leetcode/tree/master/0100-same-tree) |
+| [0112-path-sum](https://github.com/jatin12j/Leetcode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/jatin12j/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/jatin12j/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/jatin12j/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/jatin12j/Leetcode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/jatin12j/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/jatin12j/Leetcode/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jatin12j/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/jatin12j/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/jatin12j/Leetcode/tree/master/0572-subtree-of-another-tree) |
@@ -435,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/jatin12j/Leetcode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/jatin12j/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/jatin12j/Leetcode/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jatin12j/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/jatin12j/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/jatin12j/Leetcode/tree/master/0572-subtree-of-another-tree) |
