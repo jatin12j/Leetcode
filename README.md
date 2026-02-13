@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/jatin12j/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3623-count-number-of-trapezoids-i](https://github.com/jatin12j/Leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/jatin12j/Leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3714-longest-balanced-substring-ii](https://github.com/jatin12j/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/jatin12j/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/jatin12j/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2976-minimum-cost-to-convert-string-i](https://github.com/jatin12j/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/jatin12j/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3606-coupon-code-validator](https://github.com/jatin12j/Leetcode/tree/master/3606-coupon-code-validator) |
+| [3714-longest-balanced-substring-ii](https://github.com/jatin12j/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/jatin12j/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/jatin12j/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/jatin12j/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/jatin12j/Leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3714-longest-balanced-substring-ii](https://github.com/jatin12j/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/jatin12j/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Binary Search
 |  |
