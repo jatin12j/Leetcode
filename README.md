@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jatin12j/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jatin12j/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/jatin12j/Leetcode/tree/master/0189-rotate-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/jatin12j/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/jatin12j/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/jatin12j/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jatin12j/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/jatin12j/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/jatin12j/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/jatin12j/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/jatin12j/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/jatin12j/Leetcode/tree/master/0242-valid-anagram) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/jatin12j/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/jatin12j/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [2054-two-best-non-overlapping-events](https://github.com/jatin12j/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/jatin12j/Leetcode/tree/master/2402-meeting-rooms-iii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/jatin12j/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -555,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/jatin12j/Leetcode/tree/master/0190-reverse-bits) |
+| [0215-kth-largest-element-in-an-array](https://github.com/jatin12j/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0761-special-binary-string](https://github.com/jatin12j/Leetcode/tree/master/0761-special-binary-string) |
 | [3721-longest-balanced-subarray-ii](https://github.com/jatin12j/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Hash Function
@@ -567,4 +571,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/jatin12j/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/jatin12j/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/jatin12j/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/jatin12j/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
