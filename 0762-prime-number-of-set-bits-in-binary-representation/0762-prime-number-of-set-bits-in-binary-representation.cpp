@@ -1,18 +1,27 @@
 class Solution {
 public:
     int countPrimeSetBits(int left, int right) {
-        unordered_set<int> primes = {2,3,5,7,11,13,17,19};
-        
-        int ans = 0;
-        
-        for(int num = left; num <= right; num++) {
-            int setBits = __builtin_popcount(num);
-            
-            if(primes.count(setBits)) {
-                ans++;
+        int count =0;
+        for(int i=left;i<=right;i++){
+
+            int setBits = __builtin_popcount(i);  //setBit find krne k lie
+            if(isPrime(setBits)){
+                count++;
             }
         }
-        
-        return ans;
+        return count;
     }
+
+private:
+    bool isPrime(int n){
+        if(n<=1){
+            return false;
+        }
+        for(int i=2;i*i<=n;i++){
+            if(n%i==0){
+                return false;
+            }
+        }
+        return true;
+    }   
 };
