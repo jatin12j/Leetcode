@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/jatin12j/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/jatin12j/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1748-sum-of-unique-elements](https://github.com/jatin12j/Leetcode/tree/master/1748-sum-of-unique-elements) |
+| [1980-find-unique-binary-string](https://github.com/jatin12j/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2402-meeting-rooms-iii](https://github.com/jatin12j/Leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2965-find-missing-and-repeated-values](https://github.com/jatin12j/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/jatin12j/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/jatin12j/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/jatin12j/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/jatin12j/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1980-find-unique-binary-string](https://github.com/jatin12j/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/jatin12j/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/jatin12j/Leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/jatin12j/Leetcode/tree/master/2211-count-collisions-on-a-road) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/jatin12j/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/jatin12j/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/jatin12j/Leetcode/tree/master/1975-maximum-matrix-sum) |
+| [1980-find-unique-binary-string](https://github.com/jatin12j/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/jatin12j/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/jatin12j/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/jatin12j/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -482,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/jatin12j/Leetcode/tree/master/0113-path-sum-ii) |
 | [0401-binary-watch](https://github.com/jatin12j/Leetcode/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/jatin12j/Leetcode/tree/master/0756-pyramid-transition-matrix) |
+| [1980-find-unique-binary-string](https://github.com/jatin12j/Leetcode/tree/master/1980-find-unique-binary-string) |
 ## Bit Manipulation
 |  |
 | ------- |
