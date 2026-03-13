@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/jatin12j/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/jatin12j/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/jatin12j/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/jatin12j/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/jatin12j/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/jatin12j/Leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3379-transformed-array](https://github.com/jatin12j/Leetcode/tree/master/3379-transformed-array) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/jatin12j/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/jatin12j/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/jatin12j/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/jatin12j/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/jatin12j/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/jatin12j/Leetcode/tree/master/3433-count-mentions-per-user) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/jatin12j/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/jatin12j/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/jatin12j/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/jatin12j/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/jatin12j/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3453-separate-squares-i](https://github.com/jatin12j/Leetcode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/jatin12j/Leetcode/tree/master/3454-separate-squares-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/jatin12j/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -354,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/jatin12j/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3074-apple-redistribution-into-boxes](https://github.com/jatin12j/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/jatin12j/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/jatin12j/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/jatin12j/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Sorting
 |  |
@@ -481,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/jatin12j/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [2054-two-best-non-overlapping-events](https://github.com/jatin12j/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/jatin12j/Leetcode/tree/master/2402-meeting-rooms-iii) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/jatin12j/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/jatin12j/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/jatin12j/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/jatin12j/Leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
