@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/jatin12j/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/jatin12j/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/jatin12j/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/jatin12j/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/jatin12j/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/jatin12j/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/jatin12j/Leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/jatin12j/Leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/jatin12j/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/jatin12j/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/jatin12j/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/jatin12j/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/jatin12j/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/jatin12j/Leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/jatin12j/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/jatin12j/Leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/jatin12j/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/jatin12j/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
