@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/jatin12j/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/jatin12j/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/jatin12j/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0396-rotate-function](https://github.com/jatin12j/Leetcode/tree/master/0396-rotate-function) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jatin12j/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/jatin12j/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/jatin12j/Leetcode/tree/master/0704-binary-search) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/jatin12j/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/jatin12j/Leetcode/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/jatin12j/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0396-rotate-function](https://github.com/jatin12j/Leetcode/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/jatin12j/Leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/jatin12j/Leetcode/tree/master/0509-fibonacci-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/jatin12j/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/jatin12j/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/jatin12j/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jatin12j/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0396-rotate-function](https://github.com/jatin12j/Leetcode/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/jatin12j/Leetcode/tree/master/0509-fibonacci-number) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/jatin12j/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0799-champagne-tower](https://github.com/jatin12j/Leetcode/tree/master/0799-champagne-tower) |
