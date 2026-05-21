@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/jatin12j/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/jatin12j/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/jatin12j/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/jatin12j/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/jatin12j/Leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3488-closest-equal-element-queries](https://github.com/jatin12j/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/jatin12j/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/jatin12j/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/jatin12j/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/jatin12j/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/jatin12j/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/jatin12j/Leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3606-coupon-code-validator](https://github.com/jatin12j/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3714-longest-balanced-substring-ii](https://github.com/jatin12j/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2976-minimum-cost-to-convert-string-i](https://github.com/jatin12j/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/jatin12j/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/jatin12j/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/jatin12j/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/jatin12j/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/jatin12j/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3074-apple-redistribution-into-boxes](https://github.com/jatin12j/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -778,6 +781,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/jatin12j/Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/jatin12j/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/jatin12j/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## String Matching
 |  |
 | ------- |
