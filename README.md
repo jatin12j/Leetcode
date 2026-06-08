@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/jatin12j/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/jatin12j/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/jatin12j/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/jatin12j/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/jatin12j/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2402-meeting-rooms-iii](https://github.com/jatin12j/Leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/jatin12j/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2069-walking-robot-simulation-ii](https://github.com/jatin12j/Leetcode/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/jatin12j/Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/jatin12j/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/jatin12j/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2211-count-collisions-on-a-road](https://github.com/jatin12j/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2402-meeting-rooms-iii](https://github.com/jatin12j/Leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2553-separate-the-digits-in-an-array](https://github.com/jatin12j/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
@@ -661,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/jatin12j/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1861-rotating-the-box](https://github.com/jatin12j/Leetcode/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/jatin12j/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/jatin12j/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/jatin12j/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2540-minimum-common-value](https://github.com/jatin12j/Leetcode/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/jatin12j/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
