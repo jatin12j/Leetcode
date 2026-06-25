@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/jatin12j/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/jatin12j/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0874-walking-robot-simulation](https://github.com/jatin12j/Leetcode/tree/master/0874-walking-robot-simulation) |
+| [0904-fruit-into-baskets](https://github.com/jatin12j/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/jatin12j/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1189-maximum-number-of-balloons](https://github.com/jatin12j/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1345-jump-game-iv](https://github.com/jatin12j/Leetcode/tree/master/1345-jump-game-iv) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/jatin12j/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/jatin12j/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/jatin12j/Leetcode/tree/master/0881-boats-to-save-people) |
+| [0904-fruit-into-baskets](https://github.com/jatin12j/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/jatin12j/Leetcode/tree/master/0912-sort-an-array) |
 | [0944-delete-columns-to-make-sorted](https://github.com/jatin12j/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/jatin12j/Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -672,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jatin12j/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/jatin12j/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/jatin12j/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/jatin12j/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1871-jump-game-vii](https://github.com/jatin12j/Leetcode/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/jatin12j/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
