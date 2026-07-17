@@ -2,28 +2,30 @@ class Solution {
 public:
     vector<int> findMissingAndRepeatedValues(vector<vector<int>>& grid) {
         int n=grid.size();
-        int total = n*n;
-        vector<int> freq(total+1,0);
+        int N=n*n; //total size;
 
-        //freq find krenge----
+        unordered_map<int,int>mp;
+
+        int a =-1;
+        int b =-1;
+
         for(int i=0;i<n;i++){
             for(int j=0;j<n;j++){
-                freq[grid[i][j]]++;
+                mp[grid[i][j]]++;
             }
         }
 
-        //missing and max frequency ke liye ---
-        int mis = -1;
-        int rep = -1;
-
-        for(int i=1;i<=total;i++){
-            if(freq[i]==0){
-                mis = i;
+        for(int num=1;num<=N;num++){
+            if(!mp.count(num)){
+                b=num;
+            }else if(mp[num]==2){
+                a=num;
             }
-            else if(freq[i]==2){
-                rep = i;
+
+            if(a!=-1 && b!=-1){
+                break;
             }
         }
-        return {rep,mis};
+        return {a,b};        
     }
 };
