@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/jatin12j/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/jatin12j/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/jatin12j/Leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/jatin12j/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0396-rotate-function](https://github.com/jatin12j/Leetcode/tree/master/0396-rotate-function) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jatin12j/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/jatin12j/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -606,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jatin12j/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/jatin12j/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jatin12j/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/jatin12j/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/jatin12j/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/jatin12j/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/jatin12j/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -774,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jatin12j/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/jatin12j/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/jatin12j/Leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/jatin12j/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/jatin12j/Leetcode/tree/master/0344-reverse-string) |
 | [0696-count-binary-substrings](https://github.com/jatin12j/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/jatin12j/Leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -859,6 +862,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/jatin12j/Leetcode/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/jatin12j/Leetcode/tree/master/0190-reverse-bits) |
+| [0287-find-the-duplicate-number](https://github.com/jatin12j/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0401-binary-watch](https://github.com/jatin12j/Leetcode/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/jatin12j/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0756-pyramid-transition-matrix](https://github.com/jatin12j/Leetcode/tree/master/0756-pyramid-transition-matrix) |
