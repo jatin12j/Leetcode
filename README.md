@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/jatin12j/Leetcode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/jatin12j/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/jatin12j/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/jatin12j/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/jatin12j/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/jatin12j/Leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/jatin12j/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/jatin12j/Leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/jatin12j/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/jatin12j/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/jatin12j/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jatin12j/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/jatin12j/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jatin12j/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/jatin12j/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/jatin12j/Leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jatin12j/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/jatin12j/Leetcode/tree/master/0217-contains-duplicate) |
@@ -678,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/jatin12j/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/jatin12j/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/jatin12j/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/jatin12j/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jatin12j/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/jatin12j/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/jatin12j/Leetcode/tree/master/0242-valid-anagram) |
@@ -1009,6 +1013,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/jatin12j/Leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/jatin12j/Leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/jatin12j/Leetcode/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jatin12j/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0761-special-binary-string](https://github.com/jatin12j/Leetcode/tree/master/0761-special-binary-string) |
