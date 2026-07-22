@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/jatin12j/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/jatin12j/Leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/jatin12j/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/jatin12j/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3606-coupon-code-validator](https://github.com/jatin12j/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3612-process-string-with-special-operations-i](https://github.com/jatin12j/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/jatin12j/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3454-separate-squares-ii](https://github.com/jatin12j/Leetcode/tree/master/3454-separate-squares-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/jatin12j/Leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/jatin12j/Leetcode/tree/master/3488-closest-equal-element-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/jatin12j/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/jatin12j/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/jatin12j/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/jatin12j/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -644,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3454-separate-squares-ii](https://github.com/jatin12j/Leetcode/tree/master/3454-separate-squares-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/jatin12j/Leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/jatin12j/Leetcode/tree/master/3488-closest-equal-element-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/jatin12j/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/jatin12j/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/jatin12j/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-network-recovery-pathways](https://github.com/jatin12j/Leetcode/tree/master/3620-network-recovery-pathways) |
@@ -931,6 +934,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1622-fancy-sequence](https://github.com/jatin12j/Leetcode/tree/master/1622-fancy-sequence) |
 | [3161-block-placement-queries](https://github.com/jatin12j/Leetcode/tree/master/3161-block-placement-queries) |
 | [3454-separate-squares-ii](https://github.com/jatin12j/Leetcode/tree/master/3454-separate-squares-ii) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/jatin12j/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/jatin12j/Leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/jatin12j/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/jatin12j/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
