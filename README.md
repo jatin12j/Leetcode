@@ -438,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/jatin12j/Leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/jatin12j/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/jatin12j/Leetcode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/jatin12j/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/jatin12j/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/jatin12j/Leetcode/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jatin12j/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/jatin12j/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/jatin12j/Leetcode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/jatin12j/Leetcode/tree/master/0062-unique-paths) |
 | [0085-maximal-rectangle](https://github.com/jatin12j/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jatin12j/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0396-rotate-function](https://github.com/jatin12j/Leetcode/tree/master/0396-rotate-function) |
@@ -832,6 +834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/jatin12j/Leetcode/tree/master/0062-unique-paths) |
 | [3312-sorted-gcd-pair-queries](https://github.com/jatin12j/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/jatin12j/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Tree
