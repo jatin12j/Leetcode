@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/jatin12j/Leetcode/tree/master/0396-rotate-function) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jatin12j/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0493-reverse-pairs](https://github.com/jatin12j/Leetcode/tree/master/0493-reverse-pairs) |
+| [0628-maximum-product-of-three-numbers](https://github.com/jatin12j/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/jatin12j/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/jatin12j/Leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/jatin12j/Leetcode/tree/master/0724-find-pivot-index) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/jatin12j/Leetcode/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/jatin12j/Leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/jatin12j/Leetcode/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/jatin12j/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/jatin12j/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/jatin12j/Leetcode/tree/master/0788-rotated-digits) |
 | [0840-magic-squares-in-grid](https://github.com/jatin12j/Leetcode/tree/master/0840-magic-squares-in-grid) |
@@ -708,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/jatin12j/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/jatin12j/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/jatin12j/Leetcode/tree/master/0242-valid-anagram) |
+| [0628-maximum-product-of-three-numbers](https://github.com/jatin12j/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/jatin12j/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0761-special-binary-string](https://github.com/jatin12j/Leetcode/tree/master/0761-special-binary-string) |
 | [0881-boats-to-save-people](https://github.com/jatin12j/Leetcode/tree/master/0881-boats-to-save-people) |
