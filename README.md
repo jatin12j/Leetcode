@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/jatin12j/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0396-rotate-function](https://github.com/jatin12j/Leetcode/tree/master/0396-rotate-function) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jatin12j/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0486-predict-the-winner](https://github.com/jatin12j/Leetcode/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/jatin12j/Leetcode/tree/master/0493-reverse-pairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jatin12j/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/jatin12j/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/jatin12j/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0396-rotate-function](https://github.com/jatin12j/Leetcode/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/jatin12j/Leetcode/tree/master/0412-fizz-buzz) |
+| [0486-predict-the-winner](https://github.com/jatin12j/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/jatin12j/Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jatin12j/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/jatin12j/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -524,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/jatin12j/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jatin12j/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0396-rotate-function](https://github.com/jatin12j/Leetcode/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/jatin12j/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/jatin12j/Leetcode/tree/master/0509-fibonacci-number) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/jatin12j/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0788-rotated-digits](https://github.com/jatin12j/Leetcode/tree/master/0788-rotated-digits) |
@@ -1035,6 +1038,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/jatin12j/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/jatin12j/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/jatin12j/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0486-predict-the-winner](https://github.com/jatin12j/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/jatin12j/Leetcode/tree/master/0509-fibonacci-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/jatin12j/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/jatin12j/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -1149,4 +1153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/jatin12j/Leetcode/tree/master/3620-network-recovery-pathways) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/jatin12j/Leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
