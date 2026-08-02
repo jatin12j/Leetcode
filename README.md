@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/jatin12j/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0874-walking-robot-simulation](https://github.com/jatin12j/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/jatin12j/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/jatin12j/Leetcode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/jatin12j/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/jatin12j/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/jatin12j/Leetcode/tree/master/0912-sort-an-array) |
@@ -470,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/jatin12j/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/jatin12j/Leetcode/tree/master/0788-rotated-digits) |
 | [0840-magic-squares-in-grid](https://github.com/jatin12j/Leetcode/tree/master/0840-magic-squares-in-grid) |
+| [0877-stone-game](https://github.com/jatin12j/Leetcode/tree/master/0877-stone-game) |
 | [1266-minimum-time-visiting-all-points](https://github.com/jatin12j/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/jatin12j/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/jatin12j/Leetcode/tree/master/1390-four-divisors) |
@@ -531,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/jatin12j/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0788-rotated-digits](https://github.com/jatin12j/Leetcode/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/jatin12j/Leetcode/tree/master/0799-champagne-tower) |
+| [0877-stone-game](https://github.com/jatin12j/Leetcode/tree/master/0877-stone-game) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/jatin12j/Leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1301-number-of-paths-with-max-score](https://github.com/jatin12j/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/jatin12j/Leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -1157,4 +1160,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/jatin12j/Leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/jatin12j/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
