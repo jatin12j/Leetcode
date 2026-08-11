@@ -3,16 +3,18 @@ public:
     int missingInteger(vector<int>& nums) {
         int n=nums.size();
         int sum=nums[0];
+        unordered_set<int>st(nums.begin(),nums.end());
         for(int i=1;i<n;i++){
             if(nums[i]==nums[i-1]+1){
-                sum += nums[i];
-            } else{
+                sum +=nums[i];
+            }
+            else{
                 break;
             }
         }
-       while(find(nums.begin(),nums.end(),sum)!=nums.end()){
-        sum++;
-       }
+        while(st.find(sum)!=st.end()){
+            sum++;
+        }
         return sum;
     }
 };
