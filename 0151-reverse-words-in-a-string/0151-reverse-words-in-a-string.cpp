@@ -19,8 +19,8 @@ public:
             }
             i++;
         }
-        s = s.substr(0,r-1);
-        return s;
+        return  s.substr(0,r-1);
+     
 
     }
 };
