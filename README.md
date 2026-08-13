@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/jatin12j/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/jatin12j/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/jatin12j/Leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/jatin12j/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/jatin12j/Leetcode/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/jatin12j/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/jatin12j/Leetcode/tree/master/0125-valid-palindrome) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jatin12j/Leetcode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/jatin12j/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/jatin12j/Leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jatin12j/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/jatin12j/Leetcode/tree/master/0031-next-permutation) |
@@ -1102,6 +1104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/jatin12j/Leetcode/tree/master/0014-longest-common-prefix) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/jatin12j/Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/jatin12j/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/jatin12j/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
