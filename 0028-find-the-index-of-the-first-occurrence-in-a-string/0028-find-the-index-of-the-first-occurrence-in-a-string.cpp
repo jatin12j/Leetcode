@@ -7,10 +7,10 @@ public:
             for(int j=0;j<m;j++){
                 if(haystack[i+j]!=needle[j])
                 break;
-
-                if(j == m-1) return i;
+                
+                if(j==m-1) return i;
             }
-        }
+        }        
         return -1;
     }
 };
