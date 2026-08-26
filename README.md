@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/jatin12j/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/jatin12j/Leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/jatin12j/Leetcode/tree/master/0412-fizz-buzz) |
+| [0443-string-compression](https://github.com/jatin12j/Leetcode/tree/master/0443-string-compression) |
 | [0657-robot-return-to-origin](https://github.com/jatin12j/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/jatin12j/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/jatin12j/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -928,6 +929,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/jatin12j/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/jatin12j/Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/jatin12j/Leetcode/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/jatin12j/Leetcode/tree/master/0443-string-compression) |
 | [0696-count-binary-substrings](https://github.com/jatin12j/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/jatin12j/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/jatin12j/Leetcode/tree/master/0881-boats-to-save-people) |
