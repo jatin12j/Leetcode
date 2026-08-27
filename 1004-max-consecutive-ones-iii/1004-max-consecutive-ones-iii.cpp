@@ -1,22 +1,24 @@
 class Solution {
 public:
     int longestOnes(vector<int>& nums, int k) {
+        // sliding window problem 
         int n=nums.size();
-        int l=0;
-        int r=0;
+        int i=0;
+        int j=0;
         int maxlen=0;
-        int zeros=0;
-        while(r<n){
-            if(nums[r]==0)zeros++;
+        int zeros =0;
+        while(j<n){
+            if(nums[j]==0) zeros++;
             if(zeros>k){
-                if(nums[l]==0) zeros--;
-                l++;
+                if(nums[i]==0) zeros--;
+                i++;
             }
             if(zeros<=k){
-                maxlen = max(maxlen,r-l+1);
+                maxlen =max(maxlen,j-i+1);
             }
-            r++;
+            j++;
         }
         return maxlen;
+        
     }
 };
