@@ -7,7 +7,9 @@ public:
             v[nums[i]] = nums[i];
         }
         for(int i=0;i<v.size();i++){
-            if(v[i]==-1) return i;
+            if(v[i]==-1){
+                return i;
+            }
         }
         return 0;
     }
