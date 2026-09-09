@@ -11,7 +11,7 @@
 class Solution {
 public:
     ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
-        ListNode* dummy  = new ListNode(0);
+        ListNode* dummy = new ListNode(0);
         ListNode* temp = dummy;
         ListNode* l1 = list1;
         ListNode* l2 = list2;
@@ -19,10 +19,9 @@ public:
             if(l1->val <= l2->val){
                 temp->next = l1;
                 l1 = l1->next;
-            }
-            else{
+            }else{
                 temp->next = l2;
-                l2 = l2->next;
+                l2=l2->next;
             }
             temp = temp->next;
         }
