@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/jatin12j/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [0904-fruit-into-baskets](https://github.com/jatin12j/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/jatin12j/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1096-brace-expansion-ii](https://github.com/jatin12j/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/jatin12j/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/jatin12j/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/jatin12j/Leetcode/tree/master/1345-jump-game-iv) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/jatin12j/Leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jatin12j/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jatin12j/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/jatin12j/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/jatin12j/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/jatin12j/Leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jatin12j/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/jatin12j/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0542-01-matrix](https://github.com/jatin12j/Leetcode/tree/master/0542-01-matrix) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/jatin12j/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1096-brace-expansion-ii](https://github.com/jatin12j/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/jatin12j/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1306-jump-game-iii](https://github.com/jatin12j/Leetcode/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/jatin12j/Leetcode/tree/master/1345-jump-game-iv) |
@@ -851,6 +854,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/jatin12j/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/jatin12j/Leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/jatin12j/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1096-brace-expansion-ii](https://github.com/jatin12j/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1200-minimum-absolute-difference](https://github.com/jatin12j/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/jatin12j/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/jatin12j/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -917,6 +921,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0589-n-ary-tree-preorder-traversal](https://github.com/jatin12j/Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jatin12j/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jatin12j/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/jatin12j/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/jatin12j/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/jatin12j/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2211-count-collisions-on-a-road](https://github.com/jatin12j/Leetcode/tree/master/2211-count-collisions-on-a-road) |
@@ -1062,6 +1067,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/jatin12j/Leetcode/tree/master/0113-path-sum-ii) |
 | [0401-binary-watch](https://github.com/jatin12j/Leetcode/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/jatin12j/Leetcode/tree/master/0756-pyramid-transition-matrix) |
+| [1096-brace-expansion-ii](https://github.com/jatin12j/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/jatin12j/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/jatin12j/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/jatin12j/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
